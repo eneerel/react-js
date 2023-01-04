@@ -1,0 +1,14 @@
+.CardsBody{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto ;
+
+}
+.cardItem{
+    width: calc(100% / 2 - 40px);
+    margin: 20px;
+}
+.title{
+    color: #D05270 ;
+}

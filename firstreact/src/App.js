@@ -1,7 +1,6 @@
 import {Header} from './compunents/Header';
+import {Content} from './compunents/Content';
 import {Footer} from './compunents/Footer';
-import { Content } from "./compunents/Content";
-
 
 function App(){
   return(

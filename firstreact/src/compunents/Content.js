@@ -1,7 +1,11 @@
-export const Content = (props) =>{
+import {Catagory} from "./content/Catagory"
+import{Cards} from "./content/Cards"
+
+export const Content = () =>{
     return(
-    <div className="">
-      
+    <div>
+    <Catagory/>
+    <Cards/>
     </div>
     );
   };

@@ -1,7 +1,7 @@
 import {NavBar} from "./header/NavBar"
 import{Hero} from "./header/Hero"
 
-export const Header = (props) =>{
+export const Header = () =>{
     return(
     <div>
     <NavBar/>

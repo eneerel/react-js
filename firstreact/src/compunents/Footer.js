@@ -1,7 +1,8 @@
-export const Footer = (props) =>{
+import {Zurag} from "./footer/Zurag"
+export const Footer = () =>{
     return(
-    <div className="card">
-      
+    <div>
+      <Zurag/>
     </div>
     );
   };

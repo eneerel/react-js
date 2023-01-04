@@ -1,0 +1,14 @@
+.NavBar{
+    display: flex;
+    justify-content: space-between;
+}
+.navLists{
+    display: flex;
+    list-style: none;
+    font-size: 1.3rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.Logo{
+  padding: 1rem;
+}
