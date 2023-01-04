@@ -1,9 +1,9 @@
 .catagories{
-    padding-left:20px ;
+    padding:50px ;
     display: flex;
     list-style: none;
     justify-content: space-between;
-    font-size: 1.2rem;
-    width: 1000px;
+    font-size: 1rem;
+  
 
 }

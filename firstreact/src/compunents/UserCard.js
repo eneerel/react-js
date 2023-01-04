@@ -1,6 +1,6 @@
 import App from "../App";
 
-export const UserCard = (props) =>{
+export const UserCard = () =>{
     return(
     <div className="card">
       <div>

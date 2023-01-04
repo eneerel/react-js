@@ -5,12 +5,14 @@
 .Text{
    width:calc(100% / 2 - 40px);
    padding: 2rem;
+   margin: 20px;
 }
 .image{
     width:calc(100% / 2 - 40px);
+    margin: 20px;
 }
 .red{
-    color: rgb(244, 84, 124);
+    color: #D05270;
 
 }
 .icons{
