@@ -1,8 +1,7 @@
 import React from "react";
-import "./Navbar.css"
-// import Menu from "./menu/Menu"
+import "./Style.css";
 const MenuList = ["PORTFOLIA", "BLOG", "CV", "STORE", "ABOUT ME", "CONTACT"];
-export const NavBar = (props) =>{
+export const NavBar = () =>{
     return(
     <div className="NavBar">
     <div className="Logo">

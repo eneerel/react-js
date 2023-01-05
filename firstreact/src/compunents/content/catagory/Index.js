@@ -1,5 +1,5 @@
 import React from "react";
-import "./Catagory.css"
+import "./Style.css"
 const CatagoryList = ["ALL", "UI Design", "UX Design", "Product Design", "Articles", "Tutorials", "News"];
 export const Catagory = () =>{
     return(

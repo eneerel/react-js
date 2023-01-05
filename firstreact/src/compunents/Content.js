@@ -1,5 +1,5 @@
-import {Catagory} from "./content/Catagory"
-import{Cards} from "./content/Cards"
+import {Catagory} from "./content/catagory/Index"
+import{Cards} from "./content/cards/Index"
 
 export const Content = () =>{
     return(
