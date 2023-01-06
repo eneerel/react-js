@@ -1,7 +1,14 @@
+.text{
+  margin: 0 auto;
+}
 .Hero {
-    margin-top: 100px;
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
+  }
+  .Buttons{
+    margin: 0 auto;
+    padding: 50px;
   }
   /* Left section */
   .LeftSectionHero {

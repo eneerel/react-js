@@ -17,14 +17,14 @@ const ButtonItems = [
   {
     text: "MEDIUM",
     link: "#",
-    icon: "/images/medium.png",
+    icon: "./images/Group 293.png",
     class: "BtnMdm",
   },
 ];
 
 const TextSection = () => {
   return (
-    <>
+    <div className="text">
       <h1>Blog Posts</h1>
       <h2>I think so, this is it</h2>
       <p>
@@ -34,7 +34,7 @@ const TextSection = () => {
         experience at the end of the product, the design will be considered
         unsuccessful in my opinion.
       </p>
-    </>
+    </div>
   );
 };
 
@@ -55,7 +55,7 @@ const HeroSection = () => {
         </div>
       </div>
       <div className="RightSectionHero">
-        <img src="/images/Saly.png" alt="pic" />
+      <img src="./images/Group 296.png" alt="zurag"/>
       </div>
     </div>
   );

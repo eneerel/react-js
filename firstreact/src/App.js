@@ -1,13 +1,12 @@
-import {Header} from './compunents/Header';
-import {Content} from './compunents/Content';
-import {Footer} from './compunents/Footer';
+import {Home} from './pages/Home';
+import {Details} from './pages/Details';
+
 
 function App(){
   return(
     <div>
-      <Header/>
-      <Content/>
-      <Footer/>
+      <Home/>
+      <Details/>
     </div>
   )
 };
