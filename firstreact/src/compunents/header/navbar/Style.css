@@ -1,7 +1,11 @@
 .NavBar{
     display: flex;
     justify-content: space-between;
+<<<<<<< HEAD:firstreact/src/compunents/header/navbar/Style.css
     margin: 0 auto;
+=======
+    padding: 1rem;
+>>>>>>> 12265a3c483b3b845e89cb67c90b0e3f65149dc0:firstreact/src/compunents/header/Navbar.css
 }
 .navLists{
     display: flex;
